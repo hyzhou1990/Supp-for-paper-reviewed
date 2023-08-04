@@ -1,4 +1,4 @@
-# Supp. for paper entitled Zika virus targets human trophoblast stem cells and prevents syncytialization in placental trophoblast organoids  
+# Supp. for paper 
 Supp for paper entitled Zika virus targets human trophoblast stem cells and prevents syncytialization in placental trophoblast organoids
 * This repository is created for the review of paper entitled Zika virus targets human trophoblast stem cells and prevents syncytialization in placental trophoblast organoids
 
